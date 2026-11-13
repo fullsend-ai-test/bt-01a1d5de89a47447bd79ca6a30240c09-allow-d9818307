@@ -10,9 +10,6 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: reaction-ping
-      source: harness/reaction-ping.yaml
 status_notifications:
     comment:
         start: enabled
